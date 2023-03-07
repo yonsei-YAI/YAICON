@@ -1,5 +1,5 @@
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D976,100:F39F86&height=250&section=header&text=YAICON%201th&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D976,100:F39F86&height=250&section=header&text=YAICON%201th&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" width=100%/>
 </a></p>
 
 <h4 align="center"> 🥇 YAIverse ★ 🥇</h4>
@@ -94,5 +94,5 @@ Real Time Object Detection </h4>
 </p>
 
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D976,100:F39F86&height=150&section=footer" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D976,100:F39F86&height=150&section=footer" alt="header" width=100%/>
 </a></p>
