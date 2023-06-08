@@ -1,8 +1,10 @@
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=250&section=header&text=YAICON&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" width=100%/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=250&section=header&text=🏆YAICON🏆&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" width=100%/>
 </a></p>
 
-<h3 align="center">YAICON 2th </h3>
+<h2 align="center"> Hall Of Fame </h2>
+
+<h3 align="center"> YAICON 2th (23.05) </h3>
 
 <h4 align="center"> 🥇 Ditto 🥇 </h4>
 <p align="center">
@@ -45,7 +47,7 @@
 
 ---
 
-<h3 align="center">YAICON 1th </h3>
+<h3 align="center"> YAICON 1th (22.11) </h3>
 
 <h4 align="center"> 🥇 YAIverse ★ 🥇</h4>
 <p align="center">
