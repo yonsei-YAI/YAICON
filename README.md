@@ -14,9 +14,9 @@
 
 <h4 align="center"> 🥈 Studio YAIVERSE 🥈 </h4>
 <p align="center">
-🏆 Special Award from
-    <a href = https://rebuilderai.com/>
-  RebuilderAI
+🏅 Special Award from
+<a href = https://rebuilderai.com/>
+    <b> RebuilderAI </b>
 </a>
 </p>
 
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
 </p>
 
-<h4 align="center">🏅 가디언즈오브더보이스 🏅 </h4>
+<h4 align="center">🥉 가디언즈오브더보이스 🥉 </h4>
 <p align="center">
 <a href="https://github.com/junia3/Synthetic-Voice-Detection">
     <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
