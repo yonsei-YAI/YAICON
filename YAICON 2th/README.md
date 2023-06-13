@@ -34,7 +34,7 @@
 <a href="https://github.com/yaiconwithminsu/model">
     <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
 </a>
-<a herf="https://www.youtube.com/watch?v=ArOg0HVfD6I">
+<a href="https://www.youtube.com/watch?v=ArOg0HVfD6I">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
 </a>
 </p>
