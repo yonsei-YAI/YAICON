@@ -11,7 +11,9 @@
 <a href="https://github.com/devch1013/YAICON-Ditto">
     <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
 </a>
+<a href="https://www.youtube.com/watch?v=c84nrgIjjAc">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+</a>
 </p>
 
 <h4 align="center"> 🥈 Studio YAIVERSE 🥈 </h4>
@@ -26,7 +28,9 @@
 <a href="https://github.com/studio-YAIVERSE/studio-YAIVERSE">
     <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
 </a>
+<a href="https://www.youtube.com/watch?v=a8543QwpCC4">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+</a>
 </p>
 
 <h4 align="center"> 🥉 노래 민수야 고마워 🥉 </h4>
@@ -34,7 +38,9 @@
 <a href="https://github.com/yaiconwithminsu/model">
     <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
 </a>
+<a href="https://www.youtube.com/watch?v=ArOg0HVfD6I">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+</a>
 </p>
 
 <h4 align="center">🥉 가디언즈오브더보이스 🥉 </h4>
@@ -42,8 +48,11 @@
 <a href="https://github.com/junia3/Synthetic-Voice-Detection">
     <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
 </a>
+<a href="https://www.youtube.com/watch?v=xBhaZlpI1d4">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+</a>
 </p>
+
 
 ---
 
