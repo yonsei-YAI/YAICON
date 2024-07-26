@@ -4,7 +4,7 @@
 
 <h2 align="center"> Hall Of Fame </h2>
 
-<h3 align="center"> YAICON 2th (23.05) </h3>
+<h3 align="center"> YAICON 2nd (23.05) </h3>
 
 <h4 align="center"> 🥇 Ditto 🥇 </h4>
 <p align="center">
