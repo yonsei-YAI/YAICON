@@ -1,5 +1,5 @@
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F885E,100:355E71&height=250&section=header&text=YAICON%203rd&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" width=100%/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:2C3E50&height=250&section=header&text=YAICON%203rd&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" width=100%/>
 </a></p>
 
 <h4 align="center"> 🥇 4D gaussian 🥇 </h4>
@@ -60,6 +60,6 @@
 </p>
 
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F885E,100:355E71&height=150&section=footer" alt="header" width=100%/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:2C3E50&height=150&section=footer" alt="header" width=100%/>
 </a></p>
 
