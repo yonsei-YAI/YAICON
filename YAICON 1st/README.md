@@ -1,5 +1,5 @@
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D976,100:F39F86&height=250&section=header&text=YAICON%201th&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" width=100%/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D976,100:F39F86&height=250&section=header&text=YAICON%201st&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" width=100%/>
 </a></p>
 
 <h4 align="center"> 🥇 YAIverse ★ 🥇</h4>
