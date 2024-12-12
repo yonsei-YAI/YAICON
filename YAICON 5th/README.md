@@ -24,7 +24,7 @@
     </a>
 </p>
 
-<h4 align="center"> 🖍️ YAIQ 🖍️ - Audience Choice </h4>
+<h4 align="center"> 🖍️ YAIQ - Audience Choice </h4>
 <p align="center">
     <a href="https://github.com/jimiracle/YAIQ">
         <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
@@ -66,7 +66,13 @@
     </a>
 </p>
 
+<h4 align="center"> 🎯 FIVE GUYS - finding MBTI </h4>
+<p align="center">
+    <a href="https://github.com/noadforeside/MLM_Fine_Tuning_MBTI">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
 
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,100:16A085&height=150&section=footer" alt="header" width=100%/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8144E4,100:E2478B&height=150&section=footer" alt="header" width=100%/>
 </a></p>
