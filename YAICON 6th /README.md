@@ -1,5 +1,5 @@
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=YAICON%206th" alt="header" width=100%/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=491abf%20&text=YAICON%206th&fontSize=40&fontColor=ffffff&animation=fadeIn&textBg=false" alt="header" width=100%/>
 </a></p>
 
 <h4 align="center"> 🥇 그것팀되다 🥇</h4>
